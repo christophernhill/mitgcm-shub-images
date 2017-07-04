@@ -7,14 +7,14 @@ In MITgcm containers through Docker and Singluarity can provide a way to test co
 
 Mainstream code in MITgcm should continue to be written so that it 
 
-o can run on many platforms, including (but not limited to!) a wide array of Linux distributions, handheld devices, Windows, OSX and iOS devices, single board computers.
+- can run on many platforms, including (but not limited to!) a wide array of Linux distributions, handheld devices, Windows, OSX and iOS devices, single board computers.
 
-o can checkpoint and restart in order to run in multiple sub-steps.
+- can checkpoint and restart in order to run in multiple sub-steps.
 
-o supports validating exact and statistical reproducibility, even in the presence of floating point round off
+- supports validating exact and statistical reproducibility, even in the presence of floating point round off
 
-o include appropriate documentation of key features and modes of use
+- include appropriate documentation of key features and modes of use
 
-o tries to make minimun necessary assumptions about geometry and/or fluid configuration to which the code will be applied
+- tries to make minimum necessary assumptions about domain geometry and/or model configuration to which the code will be applied
 
-o tries to maintain robust compatibility with automatice differentiation where relevant and possible
+- tries to maintain robust compatibility with automatice differentiation where relevant and possible
