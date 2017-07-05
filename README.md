@@ -21,4 +21,4 @@ Mainstream code in MITgcm should continue to be written with goals, as far as po
 
 - tries to maintain robust compatibility with automatice differentiation where relevant and possible
 
-Following these guidelines helps create code that can be applied to the broadest range of problems; spanning, for example, laboratory experiments to Jovian deep atmospheres to Earth system ecosystem sensitvity calculations. The guidelines also serves to make coupling to external components (such as atmospheric model suites) relatively straightforward and flexible.
+Following these guidelines helps create code that can be applied to the broadest range of problems; spanning, for example, laboratory experiments to Jovian deep atmospheres to Earth system ecosystem sensitvity calculations. The guidelines also serve to make meaningful coupling to external components (such as atmospheric model suites) relatively straightforward and flexible.
